@@ -1,7 +1,10 @@
 
 
 select * from employees
-where employee_name = 'pravven';
+where employee_name ilike 'praveen';
+
+
+
 
 
 
